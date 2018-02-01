@@ -4,7 +4,7 @@ I made this repository to organize and improve the codes that I complete during 
 
 # Getting started 
 
-For the moment I will only upload the code and do a brief describtion of in each folder of the principal code made that week. I would summary the principal idea of each week code as follows: 
+For the moment I will only upload the code and do a brief describtion of in each folder of the principal code made that week. I would summary the principal idea of each week (nevertheless I didn't count the first week in which there wasn't any code assigmnet) code as follows: 
 
 ## Week1 
 Linear regression with one variable and severa variables using gradient descent and normal equation methods. 
